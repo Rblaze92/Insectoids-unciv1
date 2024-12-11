@@ -3,15 +3,15 @@
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Insectoid",
-		"replaces": "Machine Gun",
+		"replaces": "Knight",
 		"movement": 4,
 		"strength": 45,
 		"rangedStrength": 25,
 		"range": 3,
-		"cost": 150,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"cost": 100,
+		"requiredTech": "Agricultures",
+		"requiredResource": "None",
+		"promotions": ["Logistics","Accuracy I","Accuracy II],
 		"attackSound": "phasers"
 	}
 ]
