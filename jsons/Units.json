@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Insect-warrior",
-		"unitType": "Ranged",
+		"unitType": "Sword",
 		"uniqueTo": "Insectoid",
 		"replaces": "Knight",
 		"movement": 4,
@@ -17,7 +17,7 @@
 [
 	{
 		"name": "Worker-Insect",
-		"unitType": "Ranged",
+		"unitType": "Civilian",
 		"uniqueTo": "Insectoid",
 		"replaces": "Worker",
 		"movement": 5,
