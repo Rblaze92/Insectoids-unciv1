@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Insect-warrior",
 		"unitType": "Ranged",
 		"uniqueTo": "Insectoid",
 		"replaces": "Knight",
