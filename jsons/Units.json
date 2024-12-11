@@ -11,7 +11,7 @@
 		"cost": 100,
 		"requiredTech": "Agricultures",
 		"requiredResource": "None",
-		"promotions": ["Logistics","Accuracy I","Accuracy II],
+		"promotions": ["Logistics","Accuracy I","Accuracy II"],
 		"attackSound": "phasers"
 	}
 ]
