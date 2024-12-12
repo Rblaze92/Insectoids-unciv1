@@ -14,19 +14,3 @@
 		"attackSound": "phasers"
 	}
 ]
-[
-	{
-		"name": "Worker-Insect",
-		"unitType": "Civilian",
-		"uniqueTo": "Insectoid",
-		"replaces": "Worker",
-		"movement": 5,
-		"strength": 1,
-		"rangedStrength": 0,
-		"range": 1,
-		"cost": 30,
-		"requiredTech": "Agriculture", 
-		"attackSound": "phasers"
-	}
-]
-
